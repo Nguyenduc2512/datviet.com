@@ -55,6 +55,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <li><a href="#about" class="scroll"><span data-hover="about">Giới thiệu</span></a></li>
                         <li><a href="#work" class="scroll"><span data-hover="work"><span>Dịch vụ</span></a></li>
                         <li><a href="#contact" class="scroll"><span data-hover="contact">Liên hệ</span></a></li>
+                        <li><a href="#contact" class="scroll"><span data-hover="contact">Liên hệ</span></a></li>
                     </nav>
                 </ul>
             </div>
